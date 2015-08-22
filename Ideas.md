@@ -1,41 +1,5 @@
 Theme: You are the Monster
 
-Monster ideas:
-- Looks:
-	* Tentacles. Lots of them.
-	* Pieces that fly off when it attacks
-	* Similar enough to a human form to kind of pass as human (uncanny valley thing)
-	* if you touch it, it feels slimy
-	* Razor-sharp teeth
-
-- Abilities:
-	* Be able to fly - after an upgrade
-	* Swim - after an upgrade
-	* hide in plain sight
-	* really fast sprint speed, but only lasts 2 seconds
-	* split in two when hit?
-
-- Attacks:
-	* Sprays goo
-		* toxic goo
-	* Constricts people with tentacles
-	* breathe fire/ice/acid/whatever (dragons)
-
-- Mechanics:
-	* 2d
-	* wasd movement (w being up, s is down, etc.)
-
-top-down? top-down.
-
-
-Objective:
-* boosters?
-	* ammunition for a special attack
-	* temporarily increased attack speed
-* metroid-vania survival. Roguelike?
-	* people will constantly spawn off-screen while you traverse a map trying to collect things
-
-
 # THE IDEA:
 Metroid-Vania Roguelike Survival
 * Set map, start on the left, go right.
@@ -97,19 +61,6 @@ Metroid-Vania Roguelike Survival
 	* block you until you have fly
 	* after you have fly, you still can't go off the top or bottom
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Abilities:
+	* hide in plain sight
+	* really fast sprint speed, but only lasts 2 seconds
