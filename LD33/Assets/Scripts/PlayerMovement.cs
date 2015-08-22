@@ -5,8 +5,7 @@ using System.Collections;
 public class PlayerMovement : MonoBehaviour {
 	[SerializeField]
 	private float _acceleration;
-	//[SerializeField]
-	//private float _moveSpeed;
+
 	private Rigidbody2D _rb2d;
 	// Use this for initialization
 	void Start () {

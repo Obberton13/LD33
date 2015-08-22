@@ -2,6 +2,8 @@
 * Art:
 	* Player
 		* Body
+			* I might just stick with the black dot...
+			* It would be nice to have something resembling a human that changes sprites as it collects things
 		* Weapons when fired
 			* Ice breath
 			* Fire breath
@@ -13,7 +15,7 @@
 		* Gunman
 		* Flamethrower guy
 		* IDK what else...I'll think of something.
-	* Tiling Background
+	* Tiling Background - Maybe if I have time
 * Level Design
 	* NOTES:
 		* top to bottom is 512, top and bottom walls are 32 each, leaving 448
