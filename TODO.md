@@ -8,6 +8,10 @@
 			* Ice breath
 			* Fire breath
 			* Water breath
+	* Weapon Upgrades
+		* Ice breath
+		* Fire breath
+		* Water breath
 	* Enemies
 		* Human
 		* Spear thrower
